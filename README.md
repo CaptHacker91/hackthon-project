@@ -74,8 +74,8 @@ rafance-coreinventory/
 1. Clone the repo
 
 ```bash
-git clone <your-repo-url> rafance-coreinventory
-cd rafance-coreinventory
+git clone <copy the repo-url>coreinventory
+cd coreinventory
 ```
 
 2. Install dependencies
@@ -143,7 +143,9 @@ npm run preview  # to preview the production bundle locally
 
 1. Fork the repo
 2. Create a branch: ``
-3. Open a PR with a clear description and screenshots
+3. collaborators:focus2024onbyte,vivekdhanesara-cell,Rajbha09 
+
+4. Open a PR with a clear description and screenshots
 
 ---
 
