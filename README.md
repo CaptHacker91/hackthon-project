@@ -1,5 +1,5 @@
 # hackthon-project
-# Rafrance / CoreInventory
+# CoreInventory
 
 **CoreInventory** — lightweight inventory management UI built during a hackathon. This repository contains a single-page React app (Vite) and a wireframe mockup used as the visual reference.
 
